@@ -1,3 +1,5 @@
+# PANCAKES
+
 ## INGREDIENTS
 
 - 250ml cake flour
